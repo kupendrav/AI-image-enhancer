@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = '';
+const API_KEY = 'wx7s7ajlfqfk8dsk6';
 const BASE_URL = 'https://techhk.aoscdn.com/';
 const POLLING_INTERVAL = 2000; // Milliseconds
 const MAX_RETRIES = 20;
